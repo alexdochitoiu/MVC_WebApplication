@@ -1,0 +1,9 @@
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\obj\Debug\netcoreapp2.0\Data.csprojResolveAssemblyReference.cache
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\obj\Debug\netcoreapp2.0\Data.dll
+C:\Users\Alex Dochitoiu\source\repos\Lab7\Data\obj\Debug\netcoreapp2.0\Data.pdb

@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "5c7a7eb64c5fb1925518f9b875c741719542fd63"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Data.Domain/1.0.0": {
+        "dependencies": {
+          "Ensure.That": "5.0.0"
+        },
+        "runtime": {
+          "Data.Domain.dll": {}
+        }
+      },
+      "Ensure.That/5.0.0": {
+        "runtime": {
+          "lib/netstandard1.1/Ensure.That.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ensure.That/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/irRux8a5TY9+l6dU+1fOWUH9vETi/J5otzNCfJxt6O/8j0mONEyD2Gn2iWd4vEWGVpfIIFq8uS7M22FhVBnBg==",
+      "path": "ensure.that/5.0.0",
+      "hashPath": "ensure.that.5.0.0.nupkg.sha512"
+    }
+  }
+}
